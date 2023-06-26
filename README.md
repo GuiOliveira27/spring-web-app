@@ -14,3 +14,4 @@ A (REST API) system of users and departments, with the following use cases:
 - Object-relational mapping with JPA
 - Configuration the H2 database
 - Creating the REST API endpoints
+
